@@ -1,2 +1,2 @@
-# TensorflowIntroExercizes
+# TensorflowIntroExercises
 learningtensorflow.com practice
